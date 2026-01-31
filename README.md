@@ -47,7 +47,7 @@
   <a href="https://discord.com/users/1295669134071173193" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="190" height="70" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/@ZarkosX" target="_blank">
+  <a href="https://www.youtube.com/@SoloDev5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="190" height="70" alt="youtube logo"  />
   </a>
   <a href="https://codesandbox.io/u/Zarkos_X" target="_blank">
