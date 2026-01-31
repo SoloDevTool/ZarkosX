@@ -3,13 +3,12 @@
 
 ## 🧠 About Me
 
-> 👋 Yo! I’m **ZarkosX**, also known as **Omar** — a multi-stack developer and bot wizard.
+> 👋 Yo! I’m **SoloDev**, also known as **Omar** — a multi-stack developer and bot wizard.
 
-- ⚙️ Owner of [FeFox - hosting](https://fefoxhosting.vercel.app/) (Hosting Solutions)  
-- 🌍 Profile: [guns.lol - mahmow600k](https://guns.lol/mahmow600k)
-- 🚀 Fox - Developer: [𝐅𝐨𝐱 - 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫](https://fox-developer.vercel.app)
-- ❄ Fox - hosting: [𝐅𝐨𝐱 - 𝐇𝐨𝐬𝐭𝐢𝐧𝐠](https://fox-hosting.vercel.app) 
-- 🧠 Skills: Python, Node.js, HTML, CSS, JS, , Discord, Minecraft
+- ⚙️ Owner of [Welder - Hosting](https://store.welder.qzz.io) (Hosting Solutions)  
+- 🌍 Profile: [SoloDev](https://hub.solodev.qzz.io)
+- 🚀 Guns.ioi SoloDev: [](https://guns.lol/solodevtool)
+- 🧠 Skills: Python , C++ , C# , TypeScript , JavaScript , Node.js , HTML , CSS, , Discord, Minecraft
 - ➕ Project: Minecraft hosting - Discord Bot
 - ★ Pterodactyl Panel 10/10
 - ★ Puffer Panel 9/10
