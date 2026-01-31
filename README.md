@@ -5,17 +5,20 @@
 > 👋 Yo! I’m **SoloDev**, also known as **Omar** — a multi-stack developer and bot wizard.
 
 - ⚙️ Owner of [Welder - Hosting](https://store.welder.qzz.io) (Hosting Solutions)
-- 🌍 Profile: [SoloDev](https://hub.solodev.qzz.io)
-- 🚀 Guns.ioi SoloDev: [SoloDev](https://guns.lol/solodevtool)
-- 🧠 Skills: Python, C++, C#, TypeScript, JavaScript, Node.js, HTML, CSS, Discord, Minecraft
-- ➕ Project: Minecraft hosting - Discord Bot
-- ★ Pterodactyl Panel 10/10
-- ★ Puffer Panel 9/10
-- ★ Draco Panel 8/10
-- ★ Dragon Panel 7/10
-- ★ Skyport Panel 6/10
-- ★ OverSee Panel 5/10
-- ★ Hydra Panel 4/10
+- 🌍 Profile: [SoloDev Hub](https://hub.solodev.qzz.io)
+- 🚀 Guns.io Profile: [SoloDev](https://guns.lol/solodevtool)
+- 🧠 Skills: Python, C++, C#, TypeScript, JavaScript, Node.js, HTML, CSS, **Discord Bots**, Minecraft
+- ➕ Current Projects: Minecraft Hosting, Discord Bots Development
+
+### 🖥️ Panels Experience
+
+- ★ Pterodactyl Panel `10/10`
+- ★ Puffer Panel `9/10`
+- ★ Draco Panel `8/10`
+- ★ Dragon Panel `7/10`
+- ★ Skyport Panel `6/10`
+- ★ OverSee Panel `5/10`
+- ★ Hydra Panel `4/10`
 
 ## 🛠️ Tech Stack & Tools
 
@@ -32,12 +35,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" title="Nix" alt="Nix" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codesandbox/codesandbox-original.svg" title="CodeSandbox" alt="CodeSandbox" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" title="Replit" alt="Replit" width="40" height="40"/>&nbsp;
 </div>
 
@@ -47,7 +52,7 @@
   <a href="https://discord.com/users/1295669134071173193" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="190" height="70" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/@SoloDev5" target="_blank">
+  <a href="https://www.youtube.com/@ZarkosX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="190" height="70" alt="youtube logo"  />
   </a>
   <a href="https://codesandbox.io/u/Zarkos_X" target="_blank">
