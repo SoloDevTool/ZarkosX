@@ -7,7 +7,7 @@
 
 - ⚙️ Owner of [Welder - Hosting](https://store.welder.qzz.io) (Hosting Solutions)  
 - 🌍 Profile: [SoloDev](https://hub.solodev.qzz.io)
-- 🚀 Guns.ioi SoloDev: [](https://guns.lol/solodevtool)
+- 🚀 Guns.ioi SoloDev: [SoloDev](https://guns.lol/solodevtool)
 - 🧠 Skills: Python , C++ , C# , TypeScript , JavaScript , Node.js , HTML , CSS, , Discord, Minecraft
 - ➕ Project: Minecraft hosting - Discord Bot
 - ★ Pterodactyl Panel 10/10
