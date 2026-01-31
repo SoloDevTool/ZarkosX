@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=6000&pause=2000&color=F70000&center=true&vCenter=true&random=true&width=435&lines=ZarkosX+%F0%9F%9A%80;ZarkosX+Developer;Minecraft+hosting+-+Bot+hosting;%F0%9F%91%91+Interest%3A+Node.js;%F0%9F%93%84+Language%3A+English+-+Arabic;%F0%9F%92%BC+Project%3A+Hosting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=F70000&center=true&width=435&lines=Welcome;%F0%9F%9A%80+Interest%3A+C%2B%2B;%F0%9F%8C%8D+Language%3A+English+-+Arabic;%F0%9F%91%91+Owner%3A+SoloDev+Network;%F0%9F%93%9C+Project%3A+Hosting)](https://git.io/typing-svg)
 
 
 ## 🧠 About Me
